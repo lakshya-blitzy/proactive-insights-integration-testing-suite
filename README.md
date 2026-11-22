@@ -1,1 +1,1 @@
-# proactive-insights-integration-testing-suite
+# Integration suite\n\nRequires the demo API. Run `pip install -r requirements.txt && BASE_URL=http://127.0.0.1:8000 pytest -q`. Verify endpoint contracts first.\n
